@@ -74,7 +74,7 @@ trio-websocket==0.11.1
 typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==5.1
-ujson==5.8.0
+ujson==5.7.0
 undetected-chromedriver==3.5.4
 urllib3==2.1.0
 uvicorn==0.24.0.post1
