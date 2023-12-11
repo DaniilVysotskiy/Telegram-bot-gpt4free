@@ -21,7 +21,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 curl-cffi==0.5.10
-dnspython==2.4.2
+dnspython==2.3.0
 duckduckgo-search==3.9.9
 fastapi==0.104.1
 Flask==3.0.0
