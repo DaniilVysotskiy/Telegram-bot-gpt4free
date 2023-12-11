@@ -22,7 +22,7 @@ click==8.1.7
 colorama==0.4.6
 curl-cffi==0.5.10
 dnspython==2.3.0
-duckduckgo-search==3.9.9
+duckduckgo-search==3.8.5
 fastapi==0.104.1
 Flask==3.0.0
 frozenlist==1.4.0
